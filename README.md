@@ -11,11 +11,6 @@ This project applies PCA to multivariate datasets—specifically wine chemical c
 3. **Eigenvalue Decomposition**: Computed covariance matrices and projected high-dimensional data into orthogonal principal components ($PC_1, PC_2, \dots$).
 4. **Cumulative Explained Variance**: Evaluated variance ratios to scientifically determine the optimal number of components to retain.
 
-## 💡 Relevance to Quantitative Finance
-In quantitative finance and risk management, high-dimensional data (e.g., multi-asset returns or macroeconomic indicators) often suffer from severe multicollinearity. This PCA framework mirrors foundational techniques used in:
-* **Statistical Factor Models**: Extracting latent market risk factors.
-* **Portfolio Risk Management**: Reducing noise and preventing overfitting in predictive pipelines.
-
 ## 🛠️ Tech Stack
 * **Language**: Python
 * **Libraries**: `Scikit-Learn`, `Pandas`, `NumPy`, `Matplotlib`

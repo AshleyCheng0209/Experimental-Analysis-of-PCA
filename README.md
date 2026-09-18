@@ -1,4 +1,4 @@
-# Experimental-Analysis-of-PCA
+# Dimensionality Reduction & Factor Extraction via PCA
 
 An end-to-end data science project implementing **Principal Component Analysis (PCA)** for exploratory data analysis, dimensionality reduction, and feature extraction.
 
